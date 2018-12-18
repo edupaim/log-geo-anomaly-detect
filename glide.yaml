@@ -1,0 +1,5 @@
+package: log-detection
+import:
+  - package: github.com/hpcloud/tail
+  - package: github.com/go-fsnotify/fsnotify
+  - package: github.com/tidwall/gjson

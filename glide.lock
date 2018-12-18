@@ -1,0 +1,12 @@
+hash: cf718eb69d10ea9a483de04c5bab14bede818b7b52c9749ffae024e13c643220
+updated: 2018-12-17T23:17:41.79480018-03:00
+imports:
+- name: github.com/go-fsnotify/fsnotify
+  version: 755488143daea2fdb7c6f803dc5e70a8b54ae265
+- name: github.com/hpcloud/tail
+  version: a1dbeea552b7c8df4b542c66073e393de198a800
+- name: github.com/tidwall/gjson
+  version: 081192fa2e471ddff3ec98a3cc04fecfd031ed57
+- name: github.com/tidwall/match
+  version: 33827db735fff6510490d69a8622612558a557ed
+testImports: []
