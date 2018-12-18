@@ -10,6 +10,7 @@ import (
 
 func Test(t *testing.T) {
 	configBytes, err := json.Marshal(application.Config{
+		FieldUserId:            "uid",
 		FieldTime:              "time",
 		FieldLat:               "lat",
 		FieldLong:              "long",

@@ -6,6 +6,7 @@ import (
 )
 
 type Config struct {
+	FieldUserId            string  `json:"fieldUserId"`
 	FilePath               string  `json:"filePath"`
 	FieldLat               string  `json:"fieldLat"`
 	FieldLong              string  `json:"fieldLong"`

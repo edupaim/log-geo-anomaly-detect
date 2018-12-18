@@ -1,1 +1,1 @@
-{"filePath":"./log.log","fieldLat":"lat","fieldLong":"long","fieldTime":"time","fieldTimeFormat":"2006-01-02 15:04:05","acceptableDisplacement":200}
+{"fieldUserId":"uid","filePath":"./log.log","fieldLat":"lat","fieldLong":"long","fieldTime":"time","fieldTimeFormat":"2006-01-02 15:04:05","acceptableDisplacement":200}

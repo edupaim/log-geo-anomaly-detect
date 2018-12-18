@@ -1,5 +1,2 @@
-{"city": "Salvador", "time": "2006-05-13 14:20:10", "lat": -13.005283, "long": -38.4576}
-{"city": "Feira de Santana", "time": "2006-05-13 14:20:10", "lat": -12.2439016, "long": -39.0022759}
-{"city": "Feira de Santana", "time": "2006-05-13 14:20:10", "lat": -12.2439016, "long": -39.0022759}
-{"city": "Salvador", "time": "2006-05-13 14:30:10", "lat": -13.005283, "long": -38.4576}
-{"city": "Feira de Santana", "time": "2006-05-13 15:20:10", "lat": -12.2439016, "long": -39.0022759}
+{"uid": "a", "city": "Salvador", "time": "2006-05-13 14:20:10", "lat": -13.005283, "long": -38.4576}
+{"uid": "a", "city": "Feira de Santana", "time": "2006-05-13 14:20:10", "lat": -12.2439016, "long": -39.0022759}

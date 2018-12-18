@@ -9,6 +9,7 @@ type LogObj struct {
 	Lat  float64
 	Long float64
 	Time time.Time
+	LogEntry string
 }
 
 func GetNewLogOjb(timeLog, format, cordx, cordy string) (*LogObj, error) {
